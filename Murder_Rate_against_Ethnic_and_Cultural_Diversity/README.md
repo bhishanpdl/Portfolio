@@ -31,11 +31,11 @@ The notebook can be viewed [here](http://nbviewer.ipython.org/github/bhishanpdl/
 - seaborn
 
 # Input data
-![](data/images/ethnic_wiki.png)
-![](data/images/linguistic_wiki.png)
-![](data/images/homicide_wiki.png)
-![](data/images/guns_wiki.png)
-![](data/images/iq_by_country.png)
+![](data/images/ethnic_wiki.png)  
+![](data/images/linguistic_wiki.png)  
+![](data/images/homicide_wiki.png)  
+![](data/images/guns_wiki.png)  
+![](data/images/iq_by_country.png)  
 
 # Result images
 ![outputs/Ethnic_diversity_rank_vs_Murder_rate.png)
