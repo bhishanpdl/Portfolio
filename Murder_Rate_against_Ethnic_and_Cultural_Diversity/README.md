@@ -46,5 +46,5 @@ The notebook can be viewed [here](http://nbviewer.ipython.org/github/bhishanpdl/
 ![](outputs/Guns_per_100_residents_vs_Murder_rate.png)
 ![](outputs/IQ_vs_Murder_rate.png)
 
-
+Inspiration: [dbabbitt github notebook](https://github.com/dbabbitt/notebooks/blob/master/Miscellaneous/ipynb/I%20Compared%20International%20Gun%20Statistics%20with%20Ethnic%20Diversity%20Statistics.ipynb)
 
