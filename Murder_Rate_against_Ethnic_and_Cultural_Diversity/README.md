@@ -38,13 +38,13 @@ The notebook can be viewed [here](http://nbviewer.ipython.org/github/bhishanpdl/
 ![](data/images/iq_by_country.png)  
 
 # Result images
-![outputs/Ethnic_diversity_rank_vs_Murder_rate.png)
-![outputs/Cultural_diversity_index_vs_Murder_rate.png)
-![outputs/Ethnic_fractionalization_index_vs_Murder_rate.png)
-![outputs/Religious_fractionalization_vs_Murder_rate.png)
-![outputs/Linguistic_fractionalization_vs_Murder_rate.png)
-![outputs/Guns_per_100_residents_vs_Murder_rate.png)
-![outputs/IQ_vs_Murder_rate.png)
+![](outputs/Ethnic_diversity_rank_vs_Murder_rate.png)
+![](outputs/Cultural_diversity_index_vs_Murder_rate.png)
+![](outputs/Ethnic_fractionalization_index_vs_Murder_rate.png)
+![](outputs/Religious_fractionalization_vs_Murder_rate.png)
+![](outputs/Linguistic_fractionalization_vs_Murder_rate.png)
+![](outputs/Guns_per_100_residents_vs_Murder_rate.png)
+![](outputs/IQ_vs_Murder_rate.png)
 
 
 
