@@ -1,7 +1,7 @@
 Table of Contents
 =================
    * [Data Description](#data-description)
-   * [So How Much Fiber in 100 gm of Cabbage?](#so-how-much-fiber-in-100-gm-of-cabbage)
+   * [So How Much Fiber we get in Cabbage Raw?](#so-how-much-fiber-we-get-in-cabbage-raw)
    * [I like to search a food item](#i-like-to-search-a-food-item)
    * [Now I know the NDB_No, show me the nutrients](#now-i-know-the-ndb_no-show-me-the-nutrients)
 
@@ -44,7 +44,7 @@ Different datafiles have different numbers of coulumns and they are related in s
 At first the dataset looks daunting, however, after taking a quick look at the description pdf file (`sr28_doc.pdf`), 
 we get idea how the datasets are interlinked with each others and then can relate various data files.
 
-# So How Much Fiber in 100 gm of Cabbage?
+# So How Much Fiber we get in Cabbage Raw?
 
 I want to see the descriptive table:
 ![](outputs/cabbage_raw.png)
