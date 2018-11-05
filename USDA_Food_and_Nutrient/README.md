@@ -5,6 +5,12 @@ Table of Contents
    * [I like to search a food item](#i-like-to-search-a-food-item)
    * [Now I know the NDB_No, show me the nutrients](#now-i-know-the-ndb_no-show-me-the-nutrients)
 
+
+> ;tldr  
+> This project is about finding the nutrient contents of a food item. The data was taken from USDA. 
+> There were  4 principal data files and 8 supporting datafiles. My objective is to study, interconnect, 
+> determine, and visualize the nutrient content of given food item using these food files.
+
 # Data Description
 
 In this project I decided to answer the question "How much nutrients do we consume in our daily life food items?"
