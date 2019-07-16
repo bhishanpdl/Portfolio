@@ -3,7 +3,7 @@
 In this project my goal was to find and compare the salaries of professors of Ohio University according to Colleges and departments. I got the salary data from the [HR website](https://www.ohio.edu/instres/faculty/AAUP1718.pdf) for the year of 
 2018 and did some data wrangling and vizualization.
 
-We can view the rendered version of notebook using [nbviewer](http://nbviewer.ipython.org/github/bhishanpdl/Analysis_of_OU_Profs_Salaries/tree/master).
+We can view the rendered version of notebook using [nbviewer](https://nbviewer.jupyter.org/github/bhishanpdl/Portfolio/blob/master/Analysis_of_OU_Profs_Salaries/ou_prof_salaries_by_dept.ipynb).
 
 
 The data format was pdf and the preview of first page is given below:
